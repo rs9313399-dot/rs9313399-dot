@@ -1,27 +1,65 @@
-# 💫 About Me:
-AutoBazaar - a used car marketplace (Next.js + Supabase)<br>Computer Vision & AI projects<br>Full Stack & Deep Learning<br>MediaPipe, Next.js 14, YOLOv8<br>Python, Computer Vision, MediaPipe, ESP32, React<br>I built a Doctor Strange spell effects app using just a webcam & hand gestures!
+# Hi, I am Ratnesh Singh
 
+I am a B.Tech Computer Science student building projects across artificial intelligence, computer vision, IoT, embedded systems, and full-stack web development.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ratnesh__23) [![LinkedIn](https://www.linkedin.com/in/ratnesh-singh-783660379/)](https://www.linkedin.com/in/ratnesh-singh-783660379/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ratnesh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/things_23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/Ratnesh Singh](https://x.com/things2237)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MOOD-k7w)![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rs9313399@gmail.com) 
+My work focuses on practical, hands-on systems: real-time detection tools, AI-powered web apps, portfolio products, and useful browser-based utilities.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rs9313399-dot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rs9313399-dot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rs9313399-dot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Current Focus
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rs9313399-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Computer vision with OpenCV and YOLO
+- NLP and fake-news detection with transformer models
+- Full-stack apps with Next.js, React, TypeScript, and Prisma
+- IoT and embedded systems with ESP32 and Arduino
+- Developer portfolio and product-style project presentation
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rs9313399-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Project | Description |
+| --- | --- |
+| [IDENTITYSCOPE](https://github.com/rs9313399-dot/IDENTITYSCOPE) | Digital identity scanner for public developer, website, email, and social signals |
+| [Saatvik Cars](https://github.com/rs9313399-dot/saatvik-cars) | Used-car marketplace with inventory, leads, admin panel, and SEO sections |
+| [DealHub India](https://github.com/rs9313399-dot/dealhub-india) | Product discovery and deal-review platform for Indian shoppers |
+| [Toolbox Pro](https://github.com/rs9313399-dot/toolbox-pro) | Online utility suite for images, PDFs, QR codes, text, and developer tools |
+| [Fake News Detector](https://github.com/rs9313399-dot/fake-news-detector) | BERT-powered fake-news classifier with source credibility scoring |
+| [Animal Detector YOLO](https://github.com/rs9313399-dot/animal-detector-yolo) | Real-time animal detector using YOLOv8 and OpenCV |
+| [My Face Recognizer](https://github.com/rs9313399-dot/my-face-recognizer) | Personalized face-recognition system using OpenCV LBPH |
 
----
-[![](https://komarev.com/ghpvc/?username=rs9313399-dot&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Languages
+
+Python, JavaScript, TypeScript, C, Java, HTML, CSS
+
+### Web Development
+
+React, Next.js, Vite, Tailwind CSS, FastAPI, Flask, Prisma, SQLite
+
+### AI and Computer Vision
+
+OpenCV, YOLOv8, scikit-learn, BERT, Transformers, NumPy, pandas
+
+### IoT and Tools
+
+ESP32, Arduino, Git, GitHub, VS Code, Vercel, PowerShell
+
+## Learning Goals
+
+- Build production-quality AI and full-stack applications.
+- Improve model deployment and API design.
+- Strengthen data structures, algorithms, and system design.
+- Create projects that are easy to understand, run, and showcase.
+
+## Connect
+
+- GitHub: [rs9313399-dot](https://github.com/rs9313399-dot)
+- LinkedIn: [Ratnesh Singh](https://www.linkedin.com/in/ratnesh-singh-783660379/)
+- Email: [rs9313399@gmail.com](mailto:rs9313399@gmail.com)
+- Instagram: [ratnesh__23](https://instagram.com/ratnesh__23)
+- YouTube: [@MOOD-k7w](https://youtube.com/@@MOOD-k7w)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rs9313399-dot&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rs9313399-dot&layout=compact&theme=tokyonight)
+
